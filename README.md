@@ -15,7 +15,7 @@ Feel free to get ideas.
 
 ## Live Demo 
 
- [https://nishkarsh01.github.io/newsgrid-website/](https://nishkarsh01.github.io/newsgrid-website/)
+ [https://nifty-bohr-a9a59c.netlify.app/](https://nifty-bohr-a9a59c.netlify.app/)
 
 ## Developed Using 💻
 
