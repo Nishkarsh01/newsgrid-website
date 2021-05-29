@@ -19,8 +19,8 @@ Feel free to get ideas.
 
 ## Developed Using 💻
 
-+ [Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
-+ [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
++ [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
++ [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Installation or Getting Started
 
