@@ -6,7 +6,7 @@ Feel free to get ideas.
 > Nishkarsh Dubb
 
 ## Screenshots 📷
-![Website Mobile Screenshot](img/screenshots/0.png)
+![Website Mobile Screenshot](img/screenshots/0.jpg)
 ![Website Desktop Screenshot 1](img/screenshots/1.png)
 ![Website Desktop Screenshot 2](img/screenshots/2.png)
 ![Website Desktop Screenshot 3](img/screenshots/3.png)
